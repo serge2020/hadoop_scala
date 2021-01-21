@@ -1,0 +1,119 @@
+{
+  "year": 2019,
+  "month": 11,
+  "day": 13,
+  "json": {
+    "created_at": "Wed Nov 13 12:54:06 +0000 2019",
+    "id": 1194599318050742273,
+    "id_str": "1194599318050742273",
+    "text": "Found Ginger cat - Lampeter area, Ceredigion https://t.co/VxwINytnoc. Please RT! #lostcats #foundpets #lostandfoundpets #Lampeter",
+    "source": "<a href=\"https://www.petsreunited.com\" rel=\"nofollow\">PetsReunited</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 51430479,
+      "id_str": "51430479",
+      "name": "Pets Reunited",
+      "screen_name": "petsreunited",
+      "location": "United Kingdom",
+      "url": "http://www.petsreunited.com",
+      "description": "Tweeting lost and found pet reports gathered on our website http://www.petsreunited.com. Please follow and RT to help us reunite lost pets with their owners.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 644,
+      "friends_count": 441,
+      "listed_count": 9,
+      "favourites_count": 1681,
+      "statuses_count": 16845,
+      "created_at": "Sat Jun 27 12:56:41 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/947815407364263937/WZ0OqDLx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/947815407364263937/WZ0OqDLx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/51430479/1556109171",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {"country":  "United States"},
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "lostcats",
+          "indices": [
+            81,
+            90
+          ]
+        },
+        {
+          "text": "foundpets",
+          "indices": [
+            91,
+            101
+          ]
+        },
+        {
+          "text": "lostandfoundpets",
+          "indices": [
+            102,
+            119
+          ]
+        },
+        {
+          "text": "Lampeter",
+          "indices": [
+            120,
+            129
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VxwINytnoc",
+          "expanded_url": "https://petsr.eu/2qa1qiq",
+          "display_url": "petsr.eu/2qa1qiq",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1573649646662"
+  }
+}
